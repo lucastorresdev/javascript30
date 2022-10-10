@@ -32,6 +32,7 @@ document.querySelector(".boton").addEventListener("click", function(){
     key.setAttribute("data-key",input);
     audio.setAttribute("data-key",input);
     
+    //asdf
 
 });
 
