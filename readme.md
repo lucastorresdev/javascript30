@@ -2,7 +2,7 @@
 
 Javascript 30 es un challenge de Wes Bos, el cual consiste en hacer 30 miniproyectos con javascript vanila, es decir, sin ningun framework o librería. La idea es hacer un proyeceto por día.
 
-Podes encontrar el challenge <a href="https://javascript30.com/" target="_blank" rel="noreferrer">aquí</a>
+Podes encontrar el challenge [Aquí](https://javascript30.com/)
 
 ## Mi progreso:
 
